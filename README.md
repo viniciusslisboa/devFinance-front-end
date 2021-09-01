@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+    <img alt="dev.finances" title="dev.finances" src="./assets/logo.svg" width="220px" />
 </h1>
 
 Esse projeto foi feito junto ao mentor da rocketseat Mayk Brito, nos ajudando a compôr nosso portifólio com um projeto sólido e consistentemente apresentável...
