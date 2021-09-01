@@ -4,12 +4,12 @@ Esse App simula a utilização de um "banco digital",e tem como objetivo explora
 
 Funcionalidades:
 
-### Adição/Remoção de transações
-### Modal de adição de transações
-### Armazenamento no LocalStorage do navegador
-### Responsividade para dispositivos mobile
-### Soma automática dos valores de Entradas e Saídas
-### Alerta se input do Modal não estiver preenchidos
-### Dentre outras funcionalidades
+* Adição/Remoção de transações
+* Modal de adição de transações
+* Armazenamento no LocalStorage do navegador
+* Responsividade para dispositivos mobile
+* Soma automática dos valores de Entradas e Saídas
+* Alerta se input do Modal não estiver preenchidos
+* Dentre outras funcionalidades
 
 
